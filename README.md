@@ -1,75 +1,49 @@
-# 👋 Hi, I'm Pond (Tanakorn Sawatna)
+# 👋 สวัสดี ผม Pond (Tanakorn Sawatna)
 
-🎓 **Undergraduate Student**  
-📌 **Applied Science – Computational Mathematics (MC)**  
-💻 **Aspiring Software Developer | Full-Stack & Mobile App**
+🎓 **นักศึกษาปริญญาตรี**  
+📌 **คณะวิทยาศาสตร์ประยุกต์ – สาขาคณิตศาสตร์เชิงวิทยาการคอมพิวเตอร์ (MC)**  
+💻 **ผู้ที่สนใจด้านการพัฒนาโปรแกรม เว็บไซต์ และแอปพลิเคชัน**
 
-ผมเป็นนักศึกษาที่สนใจด้าน **การพัฒนาเว็บไซต์และแอปพลิเคชัน**  
-เน้นการเรียนรู้จากการลงมือทำจริง แก้ปัญหาจาก error และสร้างโปรเจคให้จบเป็นชิ้นงาน
+ผมเป็นนักศึกษาที่สนใจงานด้าน **การพัฒนาซอฟต์แวร์**  
 
 ---
 
-## 🧠 What I’m Learning & Working With
+## 🧠 ทักษะและสิ่งที่กำลังเรียนรู้
 
-### 💻 Programming & Development
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, React Native (Expo)
+### 💻 การพัฒนาโปรแกรม
+- **Frontend**: HTML, CSS, TypeScript, React, React Native (Expo)
 - **Backend**: Node.js, NestJS
-- **Database**: MySQL
-- **Others**: Git, GitHub, REST API, Basic UX/UI (Figma)
+- **ฐานข้อมูล**: MySQL
+- **อื่น ๆ**: Git, GitHub, REST API, UX/UI เบื้องต้น (Figma)
 
-### 📐 Academic Background
-- Computational Mathematics  
+### 📐 พื้นฐานทางวิชาการ
+- คณิตศาสตร์เชิงวิทยาการคอมพิวเตอร์  
 - Data Mining (KNN, Naive Bayes, Clustering, Apriori)
-- Software Engineering (UML, DFD, SA/SE)
-- Data Communication & Networking
+- Software Engineering (UML, DFD, SA)
 
 ---
 
-## 🚀 Current Projects
+## 🚀 โปรเจคที่กำลังทำ / เคยทำ
 
 - 🛒 **Shoes Store (E-commerce Prototype)**  
-  React + TypeScript + Tailwind  
+  พัฒนาโดย React + TypeScript + Tailwind  
   Backend: NestJS + MySQL
 
-- ✈️ **Sakchai Airways (Airline Booking System – Prototype)**  
-  UX/UI Design (Figma 20+ screens)  
-  Booking flow, seat selection, payment concept
+- ✈️ **Sakchai Airways (ระบบจองตั๋วเครื่องบิน – Prototype)**  
+  ออกแบบ UX/UI ด้วย Figma (มากกว่า 20 หน้าจอ)  
+  ครอบคลุมขั้นตอนการจองที่นั่งและการชำระเงิน
 
-- 📱 **React Native Mini Projects**  
-  State management, UI interaction, mobile components
+- 📱 **โปรเจคฝึก React Native**  
+  เน้นการจัดการ State, การโต้ตอบกับผู้ใช้ และ Mobile UI
 
 ---
 
-## 🛠 Tools I Use
+## 🛠 เครื่องมือที่ใช้งาน
 
 - Visual Studio Code  
 - Git & GitHub  
 - Figma  
 - MySQL / phpMyAdmin  
-- Expo / Android Emulator  
-- macOS (MacBook Air)
+- Expo / Android Emulator
 
 ---
-
-## 📊 Developer Notes
-
-```text
-• Focus: Learning by building
-• Style: Clean, readable, explainable code
-• Goal: Become a solid developer, not just someone who writes code
-
-
-<!--
-**Tanakorn-Pond/Tanakorn-Pond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
