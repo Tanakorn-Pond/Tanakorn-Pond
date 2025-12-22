@@ -15,7 +15,7 @@
 - ภาษา: **C#**
 - เครื่องมือ: **Visual Studio**
 - แนวคิดที่ได้เรียนรู้: Game Loop, Event Handling, Logic Control  
-*([ใส่ลิงก์ GitHub](https://github.com/Tanakorn-Pond/breakout-game-project))*
+  [https://github.com/Tanakorn-Pond/breakout-game-project]
 
 ---
 
