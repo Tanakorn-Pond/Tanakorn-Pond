@@ -55,3 +55,13 @@
 - MySQL / phpMyAdmin
 - Postman
 - Android Emulator
+
+---
+
+## ภาษาที่ใช้
+- Python
+- C#
+- SQL
+- HTML
+- CSS + Tailwind CSS
+- TypeScript
