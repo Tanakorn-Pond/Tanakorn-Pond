@@ -17,8 +17,6 @@
 - แนวคิดที่ได้เรียนรู้: Game Loop, Event Handling, Logic Control  
   GitHub: https://github.com/Tanakorn-Pond/breakout-game-project
 
----
-
 ### Warehouse Management
 ระบบจัดการคลังสินค้าเบื้องต้น  
 - ภาษา: **C#, SQL**
@@ -26,16 +24,12 @@
 - ความสามารถ: เพิ่ม / แก้ไข / ลบข้อมูลสินค้า  
   GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
 
----
-
 ### UI Design
 ออกแบบหน้าเว็บไซต์ Responsive  
 - Frontend: **HTML, CSS, Tailwind CSS**
 - เครื่องมือ: **Visual Studio Code**
 - เน้น: Layout, Responsive Design  
   GitHub: https://github.com/Tanakorn-Pond/ui-project
-
----
 
 ### Shoes Store (Full-Stack)
 ระบบร้านขายรองเท้าออนไลน์ (กำลังพัฒนา)  
