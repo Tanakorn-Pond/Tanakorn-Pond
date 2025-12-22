@@ -12,7 +12,7 @@
 - **Frontend**: HTML, CSS, TypeScript, React, React Native (Expo)
 - **Backend**: Node.js, NestJS
 - **ฐานข้อมูล**: MySQL
-- **อื่น ๆ**: Git, GitHub, REST API, UX/UI เบื้องต้น (Figma)
+- **อื่น ๆ**: GitHub, REST API, UX/UI เบื้องต้น (Figma)
 
 ### พื้นฐานทางวิชาการ
 - คณิตศาสตร์เชิงวิทยาการคอมพิวเตอร์  
@@ -21,27 +21,25 @@
 
 ---
 
-## โปรเจคที่กำลังทำ / เคยทำ
+## โปรเจคที่เคยทำ
 
 - **Shoes Store (E-commerce Prototype)**  
-  พัฒนาโดย React + TypeScript + Tailwind  
+  พัฒนาโดย React + TypeScript + Tailwind CSS
   Backend: NestJS + MySQL
+  เครื่องมือที่ใช้: Visual Studio Code, Postman, PHPMyAdmin, MAMP
 
-- **Sakchai Airways (ระบบจองตั๋วเครื่องบิน – Prototype)**  
-  ออกแบบ UX/UI ด้วย Figma (มากกว่า 20 หน้าจอ)  
-  ครอบคลุมขั้นตอนการจองที่นั่งและการชำระเงิน
-
-- **โปรเจคฝึก React Native**  
-  เน้นการจัดการ State, การโต้ตอบกับผู้ใช้ และ Mobile UI
+- **Brakeout Game
+  พัฒนาโดย C#
+  เครื่องมือที่ใช้: Visual Studio
 
 ---
 
 ## เครื่องมือที่ใช้งาน
 
 - Visual Studio Code  
-- Git & GitHub  
-- Figma  
+- Git & GitHub
+- Figma
 - MySQL / phpMyAdmin  
-- Expo / Android Emulator
+- Android Emulator
 
 ---
