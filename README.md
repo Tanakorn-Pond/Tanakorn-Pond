@@ -24,13 +24,13 @@
 ## โปรเจคที่เคยทำ
 
 - **Shoes Store (E-commerce Prototype)**  
-  พัฒนาโดย React + TypeScript + Tailwind CSS
-  Backend: NestJS + MySQL
-  เครื่องมือที่ใช้: Visual Studio Code, Postman, PHPMyAdmin, MAMP
+  - พัฒนาโดย React + TypeScript + Tailwind CSS
+  - Backend: NestJS + MySQL
+  - เครื่องมือที่ใช้: Visual Studio Code, Postman, PHPMyAdmin, MAMP
 
 - **Brakeout Game
-  พัฒนาโดย C#
-  เครื่องมือที่ใช้: Visual Studio
+  - พัฒนาโดย C#
+  - เครื่องมือที่ใช้: Visual Studio
 
 ---
 
