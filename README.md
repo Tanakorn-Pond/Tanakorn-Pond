@@ -24,7 +24,7 @@
 - ภาษา: **C#, SQL**
 - เครื่องมือ: **Visual Studio**
 - ความสามารถ: เพิ่ม / แก้ไข / ลบข้อมูลสินค้า  
-GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
+  GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
 
 ---
 
@@ -33,7 +33,7 @@ GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
 - Frontend: **HTML, CSS, Tailwind CSS**
 - เครื่องมือ: **Visual Studio Code**
 - เน้น: Layout, Responsive Design  
-GitHub: https://github.com/Tanakorn-Pond/ui-project
+  GitHub: https://github.com/Tanakorn-Pond/ui-project
 
 ---
 
@@ -43,21 +43,15 @@ GitHub: https://github.com/Tanakorn-Pond/ui-project
 - Backend: **NestJS + MySQL**
 - เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
 - ความสามารถ: แสดงสินค้า, โครงสร้าง API, เชื่อมต่อฐานข้อมูล  
-GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
+  GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
 
 ---
 
-## เครื่องมือและเทคโนโลยีที่ใช้
-- Visual Studio / Visual Studio Code  
-- Git & GitHub  
-- Figma  
-- MySQL / phpMyAdmin  
-- Postman  
-- Android Emulator  
-
----
-
-## สิ่งที่กำลังพัฒนา
-- Full-Stack Web Development  
-- Clean Code & Software Design  
-- การออกแบบระบบและโครงสร้างโปรเจกต์
+## เครื่องมือที่ใช้
+- Visual Studio
+- Visual Studio Code
+- Git & GitHub
+- Figma
+- MySQL / phpMyAdmin
+- Postman
+- Android Emulator
