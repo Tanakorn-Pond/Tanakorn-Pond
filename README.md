@@ -11,32 +11,28 @@
 ## โปรเจกต์ที่เคยทำ
 
 ### Breakout Game
-เกม Breakout แบบ 2D ผู้เล่นควบคุมไม้ตีลูกบอล ทำคะแนนจากการทำลายบล็อก  
+เกม 2D ที่ผู้เล่นควบคุมบอร์ดเพิ่อเด่งลูกบอลไปทำลายบล็อกเพื่อเก็บคะแนน
 - ภาษา: **C#**
 - เครื่องมือ: **Visual Studio**
-- แนวคิดที่ได้เรียนรู้: Game Loop, Event Handling, Logic Control  
   GitHub: https://github.com/Tanakorn-Pond/breakout-game-project
 
 ### Warehouse Management
 ระบบจัดการคลังสินค้าเบื้องต้น  
 - ภาษา: **C#, SQL**
-- เครื่องมือ: **Visual Studio**
-- ความสามารถ: เพิ่ม / แก้ไข / ลบข้อมูลสินค้า  
+- เครื่องมือ: **Visual Studio, SQL Server Management Studio**
   GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
 
 ### UI Design
 ออกแบบหน้าเว็บไซต์ Responsive  
 - Frontend: **HTML, CSS, Tailwind CSS**
 - เครื่องมือ: **Visual Studio Code**
-- เน้น: Layout, Responsive Design  
   GitHub: https://github.com/Tanakorn-Pond/ui-project
 
-### Shoes Store (Full-Stack)
-ระบบร้านขายรองเท้าออนไลน์ (กำลังพัฒนา)  
+### Shoes Store
+ระบบร้านขายรองเท้าออนไลน์ 
 - Frontend: **React + TypeScript + Tailwind CSS**
 - Backend: **NestJS + MySQL**
 - เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
-- ความสามารถ: แสดงสินค้า, โครงสร้าง API, เชื่อมต่อฐานข้อมูล  
   GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
 
 ---
