@@ -15,7 +15,7 @@
 - ภาษา: **C#**
 - เครื่องมือ: **Visual Studio**
 - แนวคิดที่ได้เรียนรู้: Game Loop, Event Handling, Logic Control  
-  https://github.com/Tanakorn-Pond/breakout-game-project
+  GitHub: https://github.com/Tanakorn-Pond/breakout-game-project
 
 ---
 
@@ -24,7 +24,7 @@
 - ภาษา: **C#, SQL**
 - เครื่องมือ: **Visual Studio**
 - ความสามารถ: เพิ่ม / แก้ไข / ลบข้อมูลสินค้า  
-🔗 Repository: *(ใส่ลิงก์ GitHub)*
+GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
 
 ---
 
@@ -33,7 +33,7 @@
 - Frontend: **HTML, CSS, Tailwind CSS**
 - เครื่องมือ: **Visual Studio Code**
 - เน้น: Layout, Responsive Design  
-🔗 Repository: *(ใส่ลิงก์ GitHub)*
+GitHub: https://github.com/Tanakorn-Pond/ui-project
 
 ---
 
@@ -43,7 +43,7 @@
 - Backend: **NestJS + MySQL**
 - เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
 - ความสามารถ: แสดงสินค้า, โครงสร้าง API, เชื่อมต่อฐานข้อมูล  
-🔗 Repository: *(ใส่ลิงก์ GitHub)*
+GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
 
 ---
 
