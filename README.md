@@ -7,6 +7,7 @@
 สนใจด้าน **Software Development / Full-Stack Development**
 
 ---
+## โปรเจกต์ที่เคยทำ
 
 ### Shoes Store
 ระบบร้านขายรองเท้าออนไลน์ 
@@ -22,8 +23,6 @@ GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
 - เครื่องมือ: **Visual Studio Code**
 
 GitHub: https://github.com/Tanakorn-Pond/ui-project
-
-## โปรเจกต์ที่เคยทำ
 
 ### Breakout Game
 เกม 2D ที่ผู้เล่นควบคุมบอร์ดเพิ่อเด่งลูกบอลไปทำลายบล็อกเพื่อเก็บคะแนน
