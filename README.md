@@ -8,6 +8,21 @@
 
 ---
 
+### Shoes Store
+ระบบร้านขายรองเท้าออนไลน์ 
+- Frontend: **React + TypeScript + Tailwind CSS**
+- Backend: **NestJS + MySQL**
+- เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
+
+GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
+
+### UI Design
+ออกแบบหน้าเว็บไซต์ Responsive  
+- Frontend: **HTML, CSS, Tailwind CSS**
+- เครื่องมือ: **Visual Studio Code**
+
+GitHub: https://github.com/Tanakorn-Pond/ui-project
+
 ## โปรเจกต์ที่เคยทำ
 
 ### Breakout Game
@@ -23,21 +38,6 @@ GitHub: https://github.com/Tanakorn-Pond/breakout-game-project
 - เครื่องมือ: **Visual Studio, SQL Server Management Studio**
 
 GitHub: https://github.com/Tanakorn-Pond/Warehouse-Project
-
-### UI Design
-ออกแบบหน้าเว็บไซต์ Responsive  
-- Frontend: **HTML, CSS, Tailwind CSS**
-- เครื่องมือ: **Visual Studio Code**
-
-GitHub: https://github.com/Tanakorn-Pond/ui-project
-
-### Shoes Store
-ระบบร้านขายรองเท้าออนไลน์ 
-- Frontend: **React + TypeScript + Tailwind CSS**
-- Backend: **NestJS + MySQL**
-- เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
-
-GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
 
 ---
 
