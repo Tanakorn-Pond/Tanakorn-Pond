@@ -11,8 +11,8 @@
 
 ### Shoes Store
 ระบบร้านขายรองเท้าออนไลน์ 
-- Frontend: **React + TypeScript + Tailwind CSS**
-- Backend: **NestJS + MySQL**
+- Frontend: **React, TypeScript, Tailwind CSS**
+- Backend: **NestJS, MySQL**
 - เครื่องมือ: **VS Code, Postman, phpMyAdmin, MAMP**
 
 GitHub: https://github.com/Tanakorn-Pond/shoe-store-webapp
