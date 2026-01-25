@@ -4,7 +4,7 @@
 คณะวิทยาศาสตร์ประยุกต์  
 สาขา **คณิตศาสตร์เชิงวิทยาการคอมพิวเตอร์ (MC)**  
 
-สนใจด้าน **Software Development / Full-Stack Development**
+สนใจด้าน **Full-Stack Developer**
 
 ---
 ## โปรเจกต์ที่เคยทำ
