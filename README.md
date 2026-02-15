@@ -6,6 +6,8 @@
 
 สนใจด้าน **Full-Stack Developer**
 
+Resume/Transcript: https://drive.google.com/drive/folders/1FnTzV-mZAOjUV3KNWz5nKibvebDA05JL?usp=sharing
+
 ---
 ## โปรเจกต์ที่เคยทำ
 
